@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.singlelinkedlist;
 
 /**
  * Created by supriti.dan on 3/18/17.
